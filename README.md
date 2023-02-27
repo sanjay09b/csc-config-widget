@@ -1,0 +1,1 @@
+# csc-config-widget
